@@ -11,8 +11,6 @@
 ![DevOps](https://img.shields.io/badge/-DevOps-005571?style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino_UNO-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
@@ -37,6 +35,16 @@
 - 🤖 **[Odoo Development Skill](https://github.com/fhidalgodev/odoo-development-skill)** - Universal Odoo development skill for AI agents (skills.sh compatible). Over 100+ OCA-compliant patterns for Windsurf, Cursor, and Cline.
 - 🗺️ **[l10n_ve_dpt](https://gitlab.com/fhidalgo.dev/l10n_ve_dpt)** - Odoo module adaptation for the Venezuelan political-territorial division localization *(compatible up to Odoo 16.0)*.
 - 🔄 **[Oerplib Fork](https://gitlab.com/fhidalgo.dev/oerplib)** - Modernized fork of the Odoo RPC client library, adding compatibility for newer Odoo versions and Python 3.x.
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/fhidalgodev)
+
+## Latest Publications
+
+- 🐳 [Despliegue de Odoo con OCE.sh](https://www.linkedin.com/posts/fhidalgodev_odoo-devops-docker-activity-7432863838149967872-atws)
+- 🐍 [Índices SQL en Odoo 19](https://www.linkedin.com/posts/fhidalgodev_odoo-odoo19-python-activity-7431504679085248512-FzrY)
+- 👨‍🏫 [Control de Acceso - Arduino Uno](https://www.linkedin.com/posts/fhidalgodev_de-la-teor%C3%ADa-a-la-pr%C3%A1ctica-comparto-activity-7379396051197247488-QC-K)
 
 ## Community & Initiatives
 
