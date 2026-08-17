@@ -29,6 +29,7 @@
 - 🎙️ **[Widget Voice To Text](https://gitlab.com/fhidalgo.dev/widget_voice_to_text)** - Custom Odoo widget integrating Voice-to-Text capabilities directly into Char fields *(compatible up to Odoo 16.0)*.
 - 📚 **[Ejercicios PHP](https://gitlab.com/fhidalgo.dev/ejercicios_php)** - Collection of server-side PHP development exercises and examples.
 - 💻 **[Programación C y C++](https://gitlab.com/fhidalgo.dev/programacion_c_cpp)** - C/C++ code repository supporting university students learning fundamental programming concepts.
+- 🔔 **[Odoo.sh Watcher](https://github.com/fhidalgodev/odoosh-watcher)** - Chrome/Edge/Brave extension that monitors Odoo.sh staging branches and sends native desktop notifications before they expire.
 
 ## Forks & Maintained Adaptations
 
