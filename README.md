@@ -19,7 +19,9 @@
 
 ## Current Projects & Open Source
 
-- 📊 **[Analizador PostgreSQL](https://gitlab.com/fhidalgo.dev/analizador_postgresql)** - Python script for advanced database schema analysis, extracting statistics from tables and fields into spreadsheets.
+- � **[Odoo.sh Watcher](https://github.com/fhidalgodev/odoosh-watcher)** - Chrome/Edge/Brave extension that monitors Odoo.sh staging branches and sends native desktop notifications before they expire.
+- 🤖 **[dsh-odoo-sdd](https://github.com/fhidalgodev/dsh-odoo-sdd)** - Spec-Driven Development pipeline for Odoo as a DeepSeek Harness plugin: connects to a real Odoo instance (JSON-RPC), orchestrates the 5-phase SDD workflow, and enforces fail-closed safety gates.
+- �📊 **[Analizador PostgreSQL](https://gitlab.com/fhidalgo.dev/analizador_postgresql)** - Python script for advanced database schema analysis, extracting statistics from tables and fields into spreadsheets.
 - 📐 **[Generador UML Odoo](https://gitlab.com/fhidalgo.dev/generador_uml_odoo)** - Reverse engineering tool to generate class diagrams directly from Odoo `models.py` files.
 - 🛠️ **[Codegen Odoo](https://gitlab.com/fhidalgo.dev/codegen_odoo)** - Code generator tool for Odoo using the Dia diagramming software.
 - 🛠️ **[Codegen PHP](https://gitlab.com/fhidalgo.dev/codegen_php)** - Code generator from Dia to pure PHP applications without frameworks.
@@ -29,7 +31,6 @@
 - 🎙️ **[Widget Voice To Text](https://gitlab.com/fhidalgo.dev/widget_voice_to_text)** - Custom Odoo widget integrating Voice-to-Text capabilities directly into Char fields *(compatible up to Odoo 16.0)*.
 - 📚 **[Ejercicios PHP](https://gitlab.com/fhidalgo.dev/ejercicios_php)** - Collection of server-side PHP development exercises and examples.
 - 💻 **[Programación C y C++](https://gitlab.com/fhidalgo.dev/programacion_c_cpp)** - C/C++ code repository supporting university students learning fundamental programming concepts.
-- 🔔 **[Odoo.sh Watcher](https://github.com/fhidalgodev/odoosh-watcher)** - Chrome/Edge/Brave extension that monitors Odoo.sh staging branches and sends native desktop notifications before they expire.
 
 ## Forks & Maintained Adaptations
 
