@@ -19,9 +19,9 @@
 
 ## Current Projects & Open Source
 
-- � **[Odoo.sh Watcher](https://github.com/fhidalgodev/odoosh-watcher)** - Chrome/Edge/Brave extension that monitors Odoo.sh staging branches and sends native desktop notifications before they expire.
+- 🔔 **[Odoo.sh Watcher](https://github.com/fhidalgodev/odoosh-watcher)** - Chrome/Edge/Brave extension that monitors Odoo.sh staging branches and sends native desktop notifications before they expire.
 - 🤖 **[dsh-odoo-sdd](https://github.com/fhidalgodev/dsh-odoo-sdd)** - Spec-Driven Development pipeline for Odoo as a DeepSeek Harness plugin: connects to a real Odoo instance (JSON-RPC), orchestrates the 5-phase SDD workflow, and enforces fail-closed safety gates.
-- �📊 **[Analizador PostgreSQL](https://gitlab.com/fhidalgo.dev/analizador_postgresql)** - Python script for advanced database schema analysis, extracting statistics from tables and fields into spreadsheets.
+- 📊 **[Analizador PostgreSQL](https://gitlab.com/fhidalgo.dev/analizador_postgresql)** - Python script for advanced database schema analysis, extracting statistics from tables and fields into spreadsheets.
 - 📐 **[Generador UML Odoo](https://gitlab.com/fhidalgo.dev/generador_uml_odoo)** - Reverse engineering tool to generate class diagrams directly from Odoo `models.py` files.
 - 🛠️ **[Codegen Odoo](https://gitlab.com/fhidalgo.dev/codegen_odoo)** - Code generator tool for Odoo using the Dia diagramming software.
 - 🛠️ **[Codegen PHP](https://gitlab.com/fhidalgo.dev/codegen_php)** - Code generator from Dia to pure PHP applications without frameworks.
